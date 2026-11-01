@@ -1,0 +1,14 @@
+# Результаты компиляции
+*.o
+/build/
+
+# Готовые программы
+/apps/backend/backend
+/apps/balancer/balancer
+/apps/loadgen/loadgen
+
+# Временные файлы
+*.swp
+*.swo
+*~
+*.log

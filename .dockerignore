@@ -1,0 +1,9 @@
+.git
+build/
+results/
+**/*.o
+**/*.swp
+apps/backend/backend
+apps/balancer/balancer
+apps/loadgen/loadgen
+
